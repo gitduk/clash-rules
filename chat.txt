@@ -1,0 +1,5 @@
+# 生成式 AI 域名列表: https://raw.githubusercontent.com/gitduk/clash-rules/main/custom/chat.txt
+DOMAIN,claude.ai
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,openai.com
